@@ -1,0 +1,13 @@
+.history
+/public
+/dist
+*.lock
+yarn-error.log
+docker
+Dockerfile*
+.gitignore
+.prettierignore
+.DS_Store
+package.json
+!.eslintrc.js
+!.prettierrc.js
